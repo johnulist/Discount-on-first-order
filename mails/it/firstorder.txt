@@ -1,0 +1,8 @@
+Salve {firstname} {lastname},
+
+{shop_name} ti regala uno sconto!
+
+Ti aspetta una sorpresa... collegati subito al tuo account, riceverai uno sconto del {coupon_amount}% sul totale del tuo primo ordine!
+Lo sconto sarà applicato automaticamente al tuo carrello!
+Approfittane subito!
+{shop_url}

@@ -1,0 +1,31 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 9-ott-2018, 19.35.21
+    Author     : latio
+*/
+
+.ui-dialog-titlebar.ui-widget-header.ui-corner-all.ui-helper-clearfix, #dialogDiscountFirstOrder {
+    text-align: center;    
+    color: #FFF;
+}
+
+.ui-state-focus, .ui-state-default .ui-icon, .ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default, .ui-button-text, .ui-dialog.ui-widget.ui-widget-content.ui-corner-all.ui-front  {
+    text-decoration: none !important;
+}
+
+button span.ui-button-text {
+    display: none !important;
+}
+
+.ui-dialog-titlebar.ui-widget-header.ui-corner-all.ui-helper-clearfix {
+    background: #3396d19c;
+}
+
+#dialogDiscountFirstOrder p {
+    font-weight: bold;
+    color: red;
+}
